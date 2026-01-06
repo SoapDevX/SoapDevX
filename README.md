@@ -1,76 +1,83 @@
-<!-- Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Isuru+Cooray+%F0%9F%91%8B;Computer+Science+Undergraduate;Software+Developer;Full+Stack+Developer" alt="Typing SVG" />
-</p>
+# 👨‍💻 Hey there, I'm Isuru Cooray
 
----
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;Computer+Science+Undergrad;Full+Stack+Enthusiast;Problem+Solver+%26+Code+Wizard)
 
-## 👨‍💻 About Me
+</div>
 
-🎓 **Computer Science Undergraduate**  
-💻 **Software Developer | Full Stack Developer**  
-🚀 Passionate about building scalable, efficient, and user-friendly applications  
-🌱 Continuously learning modern frameworks & system design  
+## 🚀 About Me
 
----
+I'm a passionate **Computer Science undergraduate** and **Software Developer** who loves turning ideas into reality through code. Currently diving deep into full-stack development and building cool stuff that matters.
 
-## 🛠️ Tech Stack
+```javascript
+const isuru = {
+    role: "Software Developer",
+    education: "Computer Science Undergraduate",
+    currentFocus: "Building scalable applications",
+    motto: "Code, Coffee, Repeat ☕",
+    funFact: "I debug in my sleep 😴"
+};
+```
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,php" />
-</p>
+## 🛠️ Tech Arsenal
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### ⚙️ Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,laravel" />
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+### Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### 🔥 MERN Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-</p>
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+### Full Stack
+![MERN](https://img.shields.io/badge/MERN-Stack-00D9FF?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🎯 What I'm Up To
+
+- 🔭 Building full-stack applications with **MERN** stack
+- 🌱 Exploring **microservices architecture** with Spring Boot
+- 💡 Always learning and experimenting with new technologies
+- 🎨 Creating clean, efficient, and scalable code
+
+## 💼 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isurucooray11)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isurucoorayofficial@gmail.com)
+
+</div>
 
 ---
 
-## 🌍 Connect With Me
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=for-the-badge)
+  
+  ### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
+  
+  ⭐️ From [Isuru Cooray](https://SoapDevX/)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/isurucooray11" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:isurucoorayofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## ✨ Quote I Live By
-
-> *"Code is like humor. When you have to explain it, it’s bad."*
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0A66C2&style=flat" />
-</p>
+</div>
