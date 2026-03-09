@@ -1,81 +1,48 @@
-🦇 The Dark Knight of Code — Isuru Cooray
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=ISURU%20COORAY&fontAlign=50&fontAlignY=40&color=0:000000,100:0f0f0f&fontColor=FFD700&desc=The%20Dark%20Knight%20of%20Software%20Development&descAlign=50&descAlignY=65&animation=fadeIn"/> </div>
+#  I'm Isuru Cooray
+
 <div align="center">
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Software+Architect+of+Shadows;Computer+Science+Guardian;Full+Stack+Vigilante;Solving+Crimes+in+the+Code" alt="Typing SVG" />
 </div>
-🌃 Welcome to the Batcave
 
-Like Gotham needs Batman, the tech world needs clean and scalable code.
+## 🌃 The Mission (About Me)
 
-I'm Isuru Cooray, a Computer Science Undergraduate and Software Developer passionate about building powerful applications and solving real-world problems.
+I'm a **Computer Science undergraduate** and **Software Developer** patrolling the digital streets. While others sleep, I'm in the Bat-Cave (my room) turning complex problems into elegant solutions. I specialize in building systems that are as robust as the Tumbler and as sleek as a Batarang.
 
-const batDeveloper = {
-  name: "Isuru Cooray",
-  role: "Software Developer",
-  education: "Computer Science Undergraduate",
-  base: "Batcave (My Coding Setup)",
-  mission: "Build scalable software",
-  superpower: "Turning coffee into code ☕",
-  motto: "It's not who I am underneath, but what I code that defines me."
+```javascript
+const darkKnight = {
+    identity: "Isuru Cooray",
+    base: "The Bat-Cave / IDE",
+    specialty: "High-Tech Solutions",
+    fuel: "Dark Roast Coffee ☕",
+    motto: "It's not who I am underneath, but what I code that defines me."
 };
-🦇 Tech Utility Belt
-Languages
-
-
-
-
-
-
-
-
-Frontend
-
-
-
-
-
-
-Backend
-
-
-
-
-
-
-Database
-
-🦇 Batcomputer Stats
-<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SoapDevX&show_icons=true&theme=vision-friendly-dark&hide_border=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoapDevX&layout=compact&theme=vision-friendly-dark&hide_border=true"/> </div>
-⚡ GitHub Streak
+🛠️ The Utility Belt (Tech Arsenal)
+🗡️ Tactical Languages
+🎭 Cloaking & UI (Frontend)
+⚙️ The Engine (Backend)
+🗄️ Intelligence Database
+📊 Bat-Computer Analytics
 <div align="center">
 
 </div>
-📊 Activity Graph
+
+🎯 Current Investigations
+🔭 Securing the MERN stack perimeter
+
+🌱 Mastering microservices (The League of Shadows approach)
+
+💡 Developing tools to make Gotham (and the web) a better place
+
+🎨 Refactoring legacy code because "some men just want to watch the world burn"
+
+📞 Summon Me (The Bat-Signal)
 <div align="center">
 
 </div>
-🐍 Contribution Snake
+
 <div align="center">
 
-</div>
-🚀 Current Missions
-
-🦇 Building Full Stack Applications
-🦇 Working with MERN Stack
-🦇 Learning Spring Boot Microservices
-🦇 Becoming a Java Software Engineer
-
-📡 Signal the Bat
-<div align="center">
-
-</div>
-👀 Gotham Visitors
-<div align="center">
-
-</div>
-<div align="center">
-🦇 “It's not who I am underneath, but what I code that defines me.”
-
-⭐ From Isuru Cooray
+💭 "Why do we fall? So we can learn to pick ourselves up (and fix the bug)."
+🛡️ Deployed by Isuru Cooray
 
 </div>
