@@ -1,83 +1,81 @@
-# 👨‍💻 Hey there, I'm Isuru Cooray
-
+🦇 The Dark Knight of Code — Isuru Cooray
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=ISURU%20COORAY&fontAlign=50&fontAlignY=40&color=0:000000,100:0f0f0f&fontColor=FFD700&desc=The%20Dark%20Knight%20of%20Software%20Development&descAlign=50&descAlignY=65&animation=fadeIn"/> </div>
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;Computer+Science+Undergrad;Full+Stack+Enthusiast;Problem+Solver+%26+Code+Wizard)
 
 </div>
+🌃 Welcome to the Batcave
 
-## 🚀 About Me
+Like Gotham needs Batman, the tech world needs clean and scalable code.
 
-I'm a passionate **Computer Science undergraduate** and **Software Developer** who loves turning ideas into reality through code. Currently diving deep into full-stack development and building cool stuff that matters.
+I'm Isuru Cooray, a Computer Science Undergraduate and Software Developer passionate about building powerful applications and solving real-world problems.
 
-```javascript
-const isuru = {
-    role: "Software Developer",
-    education: "Computer Science Undergraduate",
-    currentFocus: "Building scalable applications",
-    motto: "Code, Coffee, Repeat ☕",
-    funFact: "I debug in my sleep 😴"
+const batDeveloper = {
+  name: "Isuru Cooray",
+  role: "Software Developer",
+  education: "Computer Science Undergraduate",
+  base: "Batcave (My Coding Setup)",
+  mission: "Build scalable software",
+  superpower: "Turning coffee into code ☕",
+  motto: "It's not who I am underneath, but what I code that defines me."
 };
-```
+🦇 Tech Utility Belt
+Languages
 
-## 🛠️ Tech Arsenal
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Full Stack
-![MERN](https://img.shields.io/badge/MERN-Stack-00D9FF?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📊 GitHub Stats
 
+Frontend
+
+
+
+
+
+
+Backend
+
+
+
+
+
+
+Database
+
+🦇 Batcomputer Stats
+<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SoapDevX&show_icons=true&theme=vision-friendly-dark&hide_border=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoapDevX&layout=compact&theme=vision-friendly-dark&hide_border=true"/> </div>
+⚡ GitHub Streak
 <div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
-## 🎯 What I'm Up To
-
-- 🔭 Building full-stack applications with **MERN** stack
-- 🌱 Exploring **microservices architecture** with Spring Boot
-- 💡 Always learning and experimenting with new technologies
-- 🎨 Creating clean, efficient, and scalable code
-
-## 💼 Let's Connect
-
+📊 Activity Graph
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isurucooray11)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isurucoorayofficial@gmail.com)
 
 </div>
-
----
-
+🐍 Contribution Snake
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=for-the-badge)
-  
-  ### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
-  
-  ⭐️ From [Isuru Cooray](https://SoapDevX/)
+
+</div>
+🚀 Current Missions
+
+🦇 Building Full Stack Applications
+🦇 Working with MERN Stack
+🦇 Learning Spring Boot Microservices
+🦇 Becoming a Java Software Engineer
+
+📡 Signal the Bat
+<div align="center">
+
+</div>
+👀 Gotham Visitors
+<div align="center">
+
+</div>
+<div align="center">
+🦇 “It's not who I am underneath, but what I code that defines me.”
+
+⭐ From Isuru Cooray
 
 </div>
